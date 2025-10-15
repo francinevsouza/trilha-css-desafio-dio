@@ -81,7 +81,7 @@ Após clonar o projeto, você pode abri-lo no Visual Studio Code. Para isso, cli
 
 ## Deploy da Aplicação 
 
-🔗 Acesse online: 
+🔗 Acesse online: [Desafio Trilha CSS](https://trilha-css-desafio-dio-gilt.vercel.app/)
 
 
 ## Desenvolvedora
